@@ -1,2 +1,2 @@
-# customer-churn-ml-sl-model
-customer churn machine learning supervised learning model
+# telecom-customer-churn-prediction-model
+telecom-customer-churn-prediction-model
